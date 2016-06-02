@@ -1,1 +1,2 @@
-# proyecto-quiz
+# Quiz
+Proyecto de Core
